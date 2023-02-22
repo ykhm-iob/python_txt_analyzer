@@ -1,0 +1,17 @@
+Hello! This is a sample text file.
+With-in it are incomplete sentences and empty lines to be interpreted.
+
+It's purpose is to be an example, it is only there for that. No useful information is contained within it.
+Definition of sample (noun): a small part or quantity intended to show what the whole is like.
+
+The following wall of words is pulled from the wiki page for dorgis, which is a dog breed that is a cross between a Dachshund and Corgi.
+I think it is very cute.
+
+Wiki:
+A Dorgi is a dog which is a cross between a Dachshund and a Welsh Corgi.
+
+This hybrid started when one of Queen Elizabeth's corgis mated with a Dachshund, Pipkin, belonging to Princess Margaret. The sisters bred more Dorgis and these included Cider, Berry, and Vulcan (who was later nicknamed Womble, due to a similar appearance), who belonged to the Queen, and Rum, who belonged to Margaret. Over the years the Queen has had at least ten Dorgis, the others being named Brandy, Chipper, Harris, Pickles, Piper, Tinker, and Candy.
+
+Dorgis have a short coat in a variety of colours ranging from gold to brown to black.
+
+Both the Corgi and the Dachshund have a long back and so there is a potential for structural problems. Health issues may include patella luxation, hip dysplasia and Legg–Calvé–Perthes disease.
